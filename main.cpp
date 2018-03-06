@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð° ÑÐ²Ð»ÑÐµÑ‚ÑÑ ÑƒÑ‡ÐµÐ±Ð½Ð¾Ð¹
+//ïðîãðàììà ÿâëÿåòñÿ ó÷åáíîé
 int
 main() {
     {
@@ -9,7 +9,5 @@ main() {
          cin >> a >> b;
         cout << "A + B = " << a + b << '\n';
         cout<<"A*2="<<a*2<<'\n';
-        cout<<"A-B="<<a-b<<'\n';
-        cout<< "A/B = " << a/b << '\n';
-        cout<< "A*B = " << a*b << '\n';
-         }
+        cout<<"A*B="<<a*b<<'\n';
+        cout<<"A-B="<<a-b<<'\n';        cout<< "A/B = " << a/b << '\n'         }
